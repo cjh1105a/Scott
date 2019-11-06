@@ -1,2 +1,2 @@
 # Scott
-I am King
+Jaeho Chung's private code saving area
